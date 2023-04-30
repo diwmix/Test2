@@ -12,7 +12,7 @@ function numberGet(word, numbers) {
     return carNumber;
 }
 
-const word = 'KYIV';
+const word = 'LVIV';
 const codeNumber = '14325647584324';
 const carNumber = numberGet(word, codeNumber);
 console.log(carNumber); 
